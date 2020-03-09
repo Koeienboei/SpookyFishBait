@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/fragment.glsl</file>
+        <file>shaders/vertex.glsl</file>
+        <file>objects/circle.obj</file>
+        <file>objects/circledudebody.png</file>
+        <file>objects/circledudebodySlide.png</file>
+        <file>objects/circledudehand.png</file>
+    </qresource>
+</RCC>
